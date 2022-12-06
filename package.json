@@ -9,7 +9,7 @@
     "jwt-simple": "^0.5.6",
     "lodash": "^4.17.11",
     "moment": "^2.22.1",
-    "qs": "^6.5.2",
+    "qs": "^6.6.1",
     "random-key": "^0.3.2",
     "react": "^16.4.0",
     "react-animated-slider": "^1.1.3",
